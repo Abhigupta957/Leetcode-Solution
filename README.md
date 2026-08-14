@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0062-unique-paths) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

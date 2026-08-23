@@ -50,4 +50,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

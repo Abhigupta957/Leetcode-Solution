@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0443-string-compression) |
 | [3136-valid-word](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/3136-valid-word) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |

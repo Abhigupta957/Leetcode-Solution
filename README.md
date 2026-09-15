@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0443-string-compression) |
+| [3110-score-of-a-string](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/3136-valid-word) |
 ## Hash Table
 |  |

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0443-string-compression) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0290-word-pattern) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0169-majority-element) |
 ## Bit Manipulation
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0242-valid-anagram) |
 ## Divide and Conquer

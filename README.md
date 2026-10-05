@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0169-majority-element) |
+| [1929-concatenation-of-array](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

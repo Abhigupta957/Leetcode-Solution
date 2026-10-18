@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0062-unique-paths) |
 ## Two Pointers
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhigupta957/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
